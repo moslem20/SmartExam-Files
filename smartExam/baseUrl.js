@@ -1,1 +1,0 @@
-export const baseURL = "http://smartexam.somee.com/api";
