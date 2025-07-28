@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "Nb8Oo8SE43RgZs6PP+21ISP/2dLdMNg56lni7/xOQb4=",
+  "Source": "WebApplication1",
+  "BasePath": "_content/WebApplication1",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApplication1\\wwwroot",
+      "Source": "WebApplication1",
+      "ContentRoot": "C:\\Users\\Hamody\\OneDrive\\Desktop\\finalProject\\smartExam-React\\serverSide\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
